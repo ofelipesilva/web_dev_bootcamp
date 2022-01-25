@@ -1,0 +1,31 @@
+/******************* TAG SELECTORS *******************/
+
+h1{
+    color: #FF0000;
+    font-size: 100px;
+}
+
+img:hover{
+    background-color: gold;
+    transition: 0.5s;
+}
+
+/******************* CLASS SELECTORS *******************/
+
+.bacon{
+    background-color: #FF0000;
+}
+
+.icecream{
+    background-color: #00FF50;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+/******************* ID SELECTORS *******************/
+
+#heading{
+    color: #300199;
+}

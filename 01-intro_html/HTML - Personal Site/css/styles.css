@@ -1,0 +1,25 @@
+body{
+    background-color: #362222;
+    color: #FFEDED;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: #ff828e;
+    text-decoration: none;
+    font-weight: bolder;
+}
+a:hover{
+    color: #AEFEFF;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #ffeded65;
+    width: 5%;
+}
+
+h1, h3{
+    color: #ff4b81;
+}
